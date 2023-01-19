@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Charles J. Jin
-- 👀 I’m interested in signal processing 
-- 🌱 I’m currently learning signal processing 
-- 💞️ I’m looking to collaborate on signal processing 
-- 📫 How to reach me @ieee.org
+- 👋 Hi, I’m Jilu Jin
+- 👀 I’m interested in array signal processing
+- 🌱 I’m currently a Ph.D student in CIAIC
+- 💞️ I’m looking to collaborate on signal processing
+- 📫 How to reach me: charles.jilu.jin@ieee.org
 
 <!---
 CharlesJiluJin/CharlesJiluJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
